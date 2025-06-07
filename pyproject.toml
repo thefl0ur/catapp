@@ -1,0 +1,9 @@
+[project]
+name = "cat-app"
+version = "0.1.0"
+description = "Simple FastAPI app to display image and fact about cats"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "fastapi[standard]>=0.115.12",
+]
