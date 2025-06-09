@@ -2,6 +2,8 @@
 
 Simple FastAPI app to display image and fact about cats.
 
+[Running app](https://catapp-eahc.onrender.com)
+
 ## Build
 
 Project uses [uv](https://docs.astral.sh/uv/) for managing and is targeting Python 3.13.
